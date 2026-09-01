@@ -824,9 +824,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape'){document.qu
 <a href="/" alt="stats counter free" target="_blank" >
 <img  src="https://sstatic1.histats.com/0.gif?4977134&101" alt="stats counter free" border="0">
 
-  <script>
-document.write(unescape('%3Cscript%20src%3D%22script.js%22%3E%3C/script%3E'));
-</script>
+
 
 </body>
 </html>
